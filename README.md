@@ -48,7 +48,7 @@ streamlit run Deployment.py
 
 ## 📷 Screenshot
 
-*(You can add a screenshot of the app here.)*
+![image](https://github.com/user-attachments/assets/96bad13f-b768-4fa6-a20f-bdffb907d208)
 
 ## 🔒 Notes
 
@@ -57,4 +57,5 @@ streamlit run Deployment.py
 
 ## 📬 Contact
 
-For queries or contributions, feel free to open an issue or contact the maintainer.
+For queries or contributions, feel free to open an issue or contact.
+Email : srikanthtata2002@gmail.com
